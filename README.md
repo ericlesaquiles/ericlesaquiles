@@ -17,6 +17,12 @@
 
 ---
 
+I enjoy these tools (among others)
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gnuemacs.svg" href="https://www.gnu.org/software/emacs/" alt="emacs"/> <img height="32" width="32" src="https://simpleicons.org/icons/julia.svg" alt="julia"/> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" alt="python"/>  <img height="32" width="32" src="https://simpleicons.org/icons/ruby.svg" alt="ruby"/> <img height="32" width="32" src="https://apprecs.org/gp/images/app-icons/300/b7/ar.com.playnu.clrepl.jpg" alt="common lisp"/> <img height="32" width="32" src="https://avatars2.githubusercontent.com/u/621198?s=400&v=4" alt="coq"/>
+
+---
+
 <img src="https://emoj.ml/ablobwink.gif" width="30"> <em><b>I love connecting with different people</b> - so, if feel like it, don't be afraid of saying "Hi!"</b></em> (worst case scenario, your life will still be the same)
 
 ---
