@@ -1,6 +1,6 @@
 # Olá, I'm Éricles 👋
 
-## Goals for 2021:
+## Goals for 2023:
   1. [Attaining enlightenment](https://www.youtube.com/watch?v=_W6nVRnC0NA&list=PLXwGGsuPxWRotmEg5LStGTxZWEkqKXmrh&index=1&t=22s) 🧘 🌻;
   2. Laying the path for General *Natural* Inteligence 🌿(‾-ƪ‾);
   3. Making a robot 🤖;
