@@ -1,6 +1,6 @@
 # Olá, I'm Éricles 👋
 
-## Goals for 2023:
+## Goals for 2025:
   1. [Attaining enlightenment](https://www.youtube.com/watch?v=_W6nVRnC0NA&list=PLXwGGsuPxWRotmEg5LStGTxZWEkqKXmrh&index=1&t=22s) 🧘 🌻;
   2. Laying the path for General *Natural* Inteligence 🌿(‾-ƪ‾);
   3. Making a robot 🤖;
@@ -8,6 +8,7 @@
   5. Learning more maths - especially [HoTT](https://ncatlab.org/homotopytypetheory/show/HomePage) 🎯
   6. Ressurrect my personal blog 📒;
   7. Do more mathematical outreach 🌱
+  8. Finish my masters 
 
 ---
 
