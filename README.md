@@ -1,6 +1,6 @@
 # Olá, I'm Éricles 👋
 
-## Goals for 2025:
+## Goals for 2026:
   1. [Attaining enlightenment](https://www.youtube.com/watch?v=_W6nVRnC0NA&list=PLXwGGsuPxWRotmEg5LStGTxZWEkqKXmrh&index=1&t=22s) 🧘 🌻;
   2. Making a robot 🤖;
   3. Learning more vegan recipes 🍆 🥑 🥦 🥬;
